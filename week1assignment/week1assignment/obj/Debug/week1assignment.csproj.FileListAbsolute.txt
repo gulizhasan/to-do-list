@@ -1,0 +1,30 @@
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.AssemblyReference.cache
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\obj\Debug\week1assignment.Form1.resources
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\obj\Debug\week1assignment.Properties.Resources.resources
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.GenerateResource.cache
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\bin\Debug\week1assignment.exe.config
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\bin\Debug\week1assignment.exe
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\bin\Debug\week1assignment.pdb
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\obj\Debug\week1assignment.exe
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\New folder\week1assignment\week1assignment\obj\Debug\week1assignment.pdb
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.AssemblyReference.cache
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.Form1.resources
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.Properties.Resources.resources
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.GenerateResource.cache
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.exe
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.pdb
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\bin\Debug\week1assignment.exe.config
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\bin\Debug\week1assignment.exe
+C:\Users\GAMING\OneDrive - MMU\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\bin\Debug\week1assignment.pdb
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\bin\Debug\week1assignment.exe.config
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\bin\Debug\week1assignment.exe
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\bin\Debug\week1assignment.pdb
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.csprojAssemblyReference.cache
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.Form1.resources
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.Properties.Resources.resources
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.GenerateResource.cache
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.CoreCompileInputs.cache
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.exe
+O:\Desktop\uni\year2\block1\assignment\week1_2\week1assignment\week1assignment\obj\Debug\week1assignment.pdb
